@@ -1,4 +1,4 @@
 # FlutterTextRecognizer
 Text recognition using Flutter and Firebase's ML Kit
 
-<img src="https://github.com/arpita505/FlutterImageLabeler/blob/master/docs/Screenshot.png" width="250">
+<img src="https://github.com/arpita505/FlutterTextRecognizer/blob/master/docs/Screenshot.jpg" width="250">
